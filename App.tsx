@@ -1,10 +1,3 @@
-/**
- * Sample React Native App
- * https://github.com/facebook/react-native
- *
- * @format
- */
-
 import {FFmpegKit} from 'ffmpeg-kit-react-native';
 import React, {useRef, useState} from 'react';
 import {
